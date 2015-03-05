@@ -1,4 +1,4 @@
-define(['../foo.js'], function(foo) {
+define(['../src/foo.js'], function(foo) {
 	describe('Array', function(){
 	  before(function() {
 	  	console.log(foo);
